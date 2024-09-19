@@ -198,5 +198,5 @@ print(sprintf("Prop importations vivax: %f [95 CI %f - %f]",
 #               labels = "AUTO")
 ggsave("figures/fig_5_cumulative_counts_2016_1.pdf", p1, 
        width = 12, height = 5.9)
-ggsave("figures/fig_5_cumulative_counts_2016_1.pdf", p2, 
+ggsave("figures/fig_5_cumulative_counts_2016_2.pdf", p2, 
        width = 12, height = 5.9)
